@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/live.iml" filepath="$PROJECT_DIR$/.idea/live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TrabalhosProgramaÃ§Ã£o/live/.idea/modules/live.live.test.iml" filepath="$PROJECT_DIR$/../../TrabalhosProgramaÃ§Ã£o/live/.idea/modules/live.live.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TrabalhosProgramaÃ§Ã£o/live/.idea/modules/live.live.test~1.iml" filepath="$PROJECT_DIR$/../../TrabalhosProgramaÃ§Ã£o/live/.idea/modules/live.live.test~1.iml" />
+    </modules>
+  </component>
+</project>
